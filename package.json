@@ -1,0 +1,11 @@
+{
+  "name": "reduxx",
+  "version": "0.0.0",
+  "description": "redux implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan",
+  "license": "ISC"
+}
